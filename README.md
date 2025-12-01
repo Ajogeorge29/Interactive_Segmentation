@@ -52,24 +52,28 @@ pip install -r requirements.txt
 
 ### 2. Dataset
 
-Download the official STSR-Task-2 dataset from Codabench (competition page).
-https://www.codabench.org/competitions/6468/
 
-### 3. All preprocessing and training are handled in the script:
+
+### 3. Automatic run:
+
+```bash
+cd Task_2
+./run.sh
+```
+
+### 4. Manual run (if automatic fails):
 
 Place the /images and /labels folders inside the /Task_2/input folder.
 
 ```bash
 python3 train.py
 ```
-
-### 4. Inference
-
-Using the Provided Model
+Inference using the provided model
 
 ```bash
 python3 inference.py
 ```
+
 
 ---
 
