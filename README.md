@@ -12,7 +12,7 @@ _(Content to be added later)_
 
 ### Method Summary
 
-[cite_start]Our method employs a customized **3D U-Net with Interactive Click Guidance** to refine IAC segmentation, specifically addressing challenges in low-contrast regions or scans with metal artifacts.
+Our method employs a customized **3D U-Net with Interactive Click Guidance** to refine IAC segmentation, specifically addressing challenges in low-contrast regions or scans with metal artifacts.
 
 The architecture and flow are designed as follows:
 
