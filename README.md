@@ -63,6 +63,7 @@ Install requirements
 cd Task_2
 pip install -r requirements.txt
 ```
+Run the training script
 
 ```bash
 python3 train.py
