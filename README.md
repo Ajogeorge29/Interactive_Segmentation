@@ -46,7 +46,7 @@ The training process demonstrates stable convergence, reaching a validation Dice
 
 ### 1. Dataset
 
-
+Place the /images and /labels folders inside the /Task_2/input folder.
 
 ### 2. Automatic run:
 
@@ -63,7 +63,6 @@ Install requirements
 cd Task_2
 pip install -r requirements.txt
 ```
-Place the /images and /labels folders inside the /Task_2/input folder.
 
 ```bash
 python3 train.py
