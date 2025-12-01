@@ -43,26 +43,26 @@ The training process demonstrates stable convergence, reaching a validation Dice
 
 ## Environment Setup
 
-### 1. Install Requirements
 
-```bash
-cd Task_2
-pip install -r requirements.txt
-```
-
-### 2. Dataset
+### 1. Dataset
 
 
 
-### 3. Automatic run:
+### 2. Automatic run:
 
 ```bash
 cd Task_2
 ./run.sh
 ```
 
-### 4. Manual run (if automatic fails):
+### 3. Manual run (if automatic fails):
 
+Install requirements 
+ 
+```bash
+cd Task_2
+pip install -r requirements.txt
+```
 Place the /images and /labels folders inside the /Task_2/input folder.
 
 ```bash
