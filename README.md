@@ -23,7 +23,7 @@ The architecture and flow are designed as follows:
 
 ### Pipeline Overview
 
-![Pipeline Overview](Task_2/interactive_pipeline-1.jpg)
+![Pipeline Overview](Task_2/interactive_pipeline-1.png)
 
 ### Training Protocol
 
